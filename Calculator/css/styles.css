@@ -33,13 +33,13 @@
   
         .span-two {
           grid-column: span 2;
-          color: #adf802;
+          color: #000000;
           background-color: #FFFFFF;
         }
   
-        .output{
+        .output {
           grid-column: 1 / -1;
-          background-color: #929292;
+          background-color: #00000000;
           display: flex;
           align-items: flex-end;
           justify-content: space-around;
